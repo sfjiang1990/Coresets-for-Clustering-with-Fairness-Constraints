@@ -20,7 +20,7 @@ To run the experiments, one also needs to:
 
 1. Prepare the Python environment that FairTree and FairLP require
 
-2. Put the compiled binary of BICO into BICO/ folder
+2. Put the compiled binary of BICO into BICO/ folder (the source code is located in code/bico_src)
 
 3. Download the following datasets and compress the CSV files as data.csv.gz files and put them in data/DATASET_NAME/ folder. For instance, for census1990, one should compress & put it in data/census1990/data.csv.gz.
 
