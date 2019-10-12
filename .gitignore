@@ -1,0 +1,26 @@
+# for latex
+*.aux
+*.bbl
+*.blg
+*.log
+*.pdf
+*.vtc
+*.out
+*.synctex.gz*
+*.nav
+*.snm
+*.toc
+*.thm
+
+.settings
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+*~
+*.swp
