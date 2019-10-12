@@ -14,6 +14,14 @@ CPLEX 12.9: https://www.ibm.com/analytics/cplex-optimizer
 
 JSON.simple: https://code.google.com/archive/p/json-simple/
 
-Please put relevant Jar/dll/so files into /lib folder.
+Please put relevant jar/dll/so files into /lib folder.
 
-To run the experiments, one also needs to prepare the Python environment that FairTree and FairLP require, and put the compiled binary of BICO into BICO/ folder. One can call the main method in Main.java to run all experiments, which would call BICO, FairTree, FairLP programs automatically.
+To run the experiments, one also needs to:
+
+1. Prepare the Python environment that FairTree and FairLP require
+
+2. Put the compiled binary of BICO into BICO/ folder
+
+3. Download the datasets and compress the CSV files as data.csv.gz files and put them in data/DATASET_NAME/ folder. For instance, for census1990, one should compress & put it in data/census1990/data.csv.gz.
+
+One can call the main method in Main.java to run all experiments, which would call BICO, FairTree, FairLP programs automatically.
