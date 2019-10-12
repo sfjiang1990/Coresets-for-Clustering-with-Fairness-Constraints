@@ -22,6 +22,16 @@ To run the experiments, one also needs to:
 
 2. Put the compiled binary of BICO into BICO/ folder
 
-3. Download the datasets and compress the CSV files as data.csv.gz files and put them in data/DATASET_NAME/ folder. For instance, for census1990, one should compress & put it in data/census1990/data.csv.gz.
+3. Download the following datasets and compress the CSV files as data.csv.gz files and put them in data/DATASET_NAME/ folder. For instance, for census1990, one should compress & put it in data/census1990/data.csv.gz.
+
+Adult: https://archive.ics.uci.edu/ml/datasets/Adult
+
+Athlete: https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results
+
+Bank: https://archive.ics.uci.edu/ml/datasets/bank+marketing
+
+Diabetes: https://archive.ics.uci.edu/ml/datasets/diabetes
+
+Census1990: https://archive.ics.uci.edu/ml/datasets/US+Census+Data+(1990)
 
 One can call the main method in Main.java to run all experiments, which would call BICO, FairTree, FairLP programs automatically.
