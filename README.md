@@ -30,7 +30,7 @@ Athlete: https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-a
 
 Bank: https://archive.ics.uci.edu/ml/datasets/bank+marketing
 
-Diabetes: https://archive.ics.uci.edu/ml/datasets/diabetes
+Diabetes: https://archive.ics.uci.edu/dataset/296/diabetes+130-us+hospitals+for+years+1999-2008
 
 Census1990: https://archive.ics.uci.edu/ml/datasets/US+Census+Data+(1990)
 
